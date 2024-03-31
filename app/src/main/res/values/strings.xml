@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DonnaMarieBrar_COMP304Sec004_Lab4</string>
+
+    <string-array name="swProgs">
+        <item>Computer Science</item>
+        <item>Software Engineering</item>
+        <item>Information Technology</item>
+    </string-array>
+    <string name="title_activity_second">SecondActivity</string>
+
 </resources>
