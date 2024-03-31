@@ -6,6 +6,25 @@
         <item>Software Engineering</item>
         <item>Information Technology</item>
     </string-array>
+
     <string name="title_activity_second">SecondActivity</string>
+
+    <string-array name="csCourses">
+        <item>CNET212 - Virtualization and Cloud Technology</item>
+        <item>CNET222 - Network Services</item>
+        <item>CNET304 - Wireless Technology</item>
+    </string-array>
+
+    <string-array name="seCourses">
+        <item>CNET307 - IT Project Management</item>
+        <item>COMP216 - Networking for Software Developers</item>
+        <item>COMP308 - Emerging Technologies</item>
+    </string-array>
+
+    <string-array name="itCourses">
+        <item>NET211 - Unix/Linux Operating Systems</item>
+        <item>NET220 - Computer and Network Security</item>
+        <item>NET221 - Wireless Communication Systems</item>
+    </string-array>
 
 </resources>
